@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-complete",
+  "version": "1.0.0",
+  "description": "todoapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klynkins/React-Redux-Complete.git"
+  },
+  "author": "Katelynn Campbell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klynkins/React-Redux-Complete/issues"
+  },
+  "homepage": "https://github.com/klynkins/React-Redux-Complete#readme"
+}
